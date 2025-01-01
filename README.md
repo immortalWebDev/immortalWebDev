@@ -36,7 +36,7 @@ const piyush = {
 const projects = [
   {
     name: "Rapid Compiler",
-    description: "A desktop-first interactive online coding environment supporting multiple programming languages with syntax highlighting.",
+    description: "A desktop-first interactive online coding environment.",
     techStack: ["React", "Monaco Editor", "Tailwind CSS"],
     links: {
       liveDemo: "https://rapid-compiler.vercel.app/",
@@ -46,7 +46,7 @@ const projects = [
   },
   {
     name: "Ecommerce Website (Great Mart)",
-    description: "A responsive e-commerce site with features like user authentication, product filtering, and a real-time cart.",
+    description: "A responsive e-commerce site with exciting features",
     techStack: ["React", "Redux", "Firebase"],
     links: {
       liveDemo: "https://great-mart-piyush.vercel.app/",
@@ -56,7 +56,7 @@ const projects = [
   },
   {
     name: "Client Mail Service (Mail Express)",
-    description: "A mail service with real-time updates and dynamic categorization. Secured with DOM-Purify and Firebase Authentication.",
+    description: "A mail service with real-time updates and dynamic categorization.",
     techStack: ["React", "Firebase", "Bootstrap CSS"],
     links: {
       liveDemo: "https://client-mail-box-piyush.vercel.app/auth",
@@ -70,8 +70,8 @@ const projects = [
 ## 📂 Additional Projects
 
 - [Countries-Data](https://countries-data-piyush.vercel.app/):  An interactive platform to see nations details vividly
-- [Expense-Tracker](https://countries-data-piyush.vercel.app/): Add, track, and edit expenses seamlessly.
-- Movie-Booking: [Admin]()-[User]() interface for efficient movie bookings.
+- [Expense-Tracker](): Add, track, and edit expenses seamlessly.
+- Movie-Booking: [Admin](https://movie-admin-piyush.vercel.app/)-[User](https://movie-user-piyush.vercel.app/) interface for efficient movie bookings.
 - [Text-Editor](https://text-master-piyush-immortalwebdevs-projects.vercel.app/): Feature-rich tool for advanced text editing.
 
 Visit my **[Portfolio](https://web-portfolio-piyush.vercel.app/)** to explore more projects!
