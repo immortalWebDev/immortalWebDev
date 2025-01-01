@@ -9,12 +9,9 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-visit-green)](https://web-portfolio-piyush.vercel.app/)
 [![Resume](https://img.shields.io/badge/Resume-View-orange)](https://www.snapit.tech/pgbadgujar007/5w3jtzcp1e)
 
-## 📖 About Me
+**About Me**
 
-<pre style="overflow-x: auto; white-space: pre-wrap;">
 I am a passionate <strong>Frontend Developer</strong> from India, dedicated to building interactive and scalable web applications. I specialize in modern web technologies, with a focus on user-friendly designs and seamless functionality. Currently, I am transitioning into full-stack development, coming from a freelancing background in the film industry, where I primarily worked on <strong>content creation</strong> for <strong>Instagram</strong> accounts and <strong>WordPress</strong> websites. I am thoroughly enjoying this exciting transition.
-</pre>
-
 
 
 ## 💻 Tech Stack & Skills
