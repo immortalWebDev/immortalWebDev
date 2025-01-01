@@ -11,9 +11,10 @@
 
 ## 📖 About Me
 
-```text
-I am a passionate Frontend Developer from India, dedicated to building interactive and scalable web applications. I specialize in modern web technologies, with a focus on user-friendly designs and seamless functionality. Currently, I am transitioning into full-stack development, coming from a freelancing background in the film industry, where I primarily worked on content creation for Instagram accounts and WordPress websites. I am thoroughly enjoying this exciting transition.
-```
+<pre>
+I am a passionate <strong>Frontend Developer</strong> from India, dedicated to building interactive and scalable web applications. I specialize in modern web technologies, with a focus on user-friendly designs and seamless functionality. Currently, I am transitioning into full-stack development, coming from a freelancing background in the film industry, where I primarily worked on <strong>content creation</strong> for <strong>Instagram</strong> accounts and <strong>WordPress</strong> websites. I am thoroughly enjoying this exciting transition.
+</pre>
+
 
 
 ## 💻 Tech Stack & Skills
